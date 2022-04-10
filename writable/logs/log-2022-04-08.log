@@ -1,0 +1,400 @@
+CRITICAL - 2022-04-08 19:22:12 --> syntax error, unexpected token ":", expecting ")"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-08 19:23:09 --> syntax error, unexpected token ":", expecting ")"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-08 19:23:13 --> syntax error, unexpected token ":", expecting ")"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-08 19:23:19 --> syntax error, unexpected token ":", expecting ")"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-08 19:23:23 --> syntax error, unexpected token ":", expecting ")"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-08 19:23:25 --> syntax error, unexpected token ":", expecting ")"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-08 20:54:34 --> Undefined variable $usuarios
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\usuario.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Login.php(28): view('usuario/usuario', Array)
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Login->validar()
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-08 21:32:49 --> Call to undefined function App\Controllers\getVar()
+#0 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-04-08 21:34:17 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 21:34:17 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-08 21:42:03 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(91): count(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 21:43:48 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 21:43:48 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 21:53:38 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 21:53:38 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 21:53:40 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 21:53:40 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 21:53:41 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 21:53:41 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 21:58:33 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 21:58:33 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 21:58:34 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 21:58:34 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 22:17:42 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 22:17:42 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 22:17:43 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 22:17:43 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 22:18:10 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 22:18:10 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 22:20:46 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 22:20:46 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(90): App\Models\Usuario->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-08 22:27:29 --> Unmatched '}'
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Usua...')
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(84): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Usua...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-08 22:27:52 --> Cannot redeclare App\Models\Usuario::$table
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-08 22:37:52 --> CodeIgniter\Database\BaseBuilder::select(): Argument #2 ($escape) must be of type ?bool, array given, called in C:\xampp\htdocs\evaluacion_no_2\system\Model.php on line 728
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(728): CodeIgniter\Database\BaseBuilder->select('Daniel_Raxjal', Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(95): CodeIgniter\Model->__call('select', Array)
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-08 22:39:35 --> Undefined variable $txtusuario
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-08 22:40:14 --> syntax error, unexpected token "protected"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Cuen...')
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(85): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Cuen...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-08 22:41:07 --> Undefined variable $txtusuario
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-08 22:41:27 --> Undefined variable $txtusuario
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(100): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 100)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-08 22:42:12 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Models\Cuenta.php(13): CodeIgniter\Model->__get('request')
+#3 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(100): App\Models\Cuenta->obtenerUsuario(Array)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-08 22:44:07 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Models\Cuenta.php(13): CodeIgniter\Model->__get('request')
+#3 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(101): App\Models\Cuenta->obtenerUsuario(Array)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-08 22:44:07 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Models\Cuenta.php(13): CodeIgniter\Model->__get('request')
+#3 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(101): App\Models\Cuenta->obtenerUsuario(Array)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-08 22:44:08 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Models\Cuenta.php(13): CodeIgniter\Model->__get('request')
+#3 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(101): App\Models\Cuenta->obtenerUsuario(Array)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-08 22:44:08 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Models\Cuenta.php(13): CodeIgniter\Model->__get('request')
+#3 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(101): App\Models\Cuenta->obtenerUsuario(Array)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-08 22:44:17 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Models\Cuenta.php(13): CodeIgniter\Model->__get('request')
+#3 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(101): App\Models\Cuenta->obtenerUsuario(Array)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-08 22:44:27 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(693): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Models\Cuenta.php(13): CodeIgniter\Model->__get('request')
+#3 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(101): App\Models\Cuenta->obtenerUsuario(Array)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-08 22:44:46 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 22:44:46 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(101): App\Models\Cuenta->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-08 22:46:53 --> count(): Argument #1 ($value) must be of type Countable|array, null given
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(102): count(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 22:48:14 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 22:48:14 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(101): App\Models\Cuenta->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 22:48:52 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 22:48:52 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(101): App\Models\Cuenta->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 22:48:53 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 22:48:53 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(101): App\Models\Cuenta->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-08 23:05:02 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(97): CodeIgniter\Model->__call('SELECT', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-08 23:05:19 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(97): CodeIgniter\Model->__call('SELECT', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-08 23:13:03 --> CodeIgniter\Database\BaseBuilder::select(): Argument #2 ($escape) must be of type ?bool, array given, called in C:\xampp\htdocs\evaluacion_no_2\system\Model.php on line 728
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(728): CodeIgniter\Database\BaseBuilder->select('Daniel_Raxjal', Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(108): CodeIgniter\Model->__call('select', Array)
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-08 23:14:04 --> You must set the database table to be used with your query.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(545): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(722): CodeIgniter\Model->builder()
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(108): CodeIgniter\Model->__call('select', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-08 23:15:42 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 23:15:42 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(113): App\Models\Cuenta->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 23:16:14 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 23:16:14 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(113): App\Models\Cuenta->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 23:17:08 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 23:17:08 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(113): App\Models\Cuenta->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 23:18:15 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 23:18:15 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(113): App\Models\Cuenta->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-08 23:21:15 --> Unknown column 'txtusuario' in 'where clause'
+CRITICAL - 2022-04-08 23:21:15 --> Method name must be a string
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(113): App\Models\Cuenta->obtenerUsuario(Array)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->login()
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

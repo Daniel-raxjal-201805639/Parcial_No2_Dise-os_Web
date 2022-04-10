@@ -1,0 +1,547 @@
+CRITICAL - 2022-04-07 12:02:31 --> Undefined variable $usuarios
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\usuario.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Home.php(9): view('usuario/usuario')
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-07 12:02:38 --> Undefined variable $usuarios
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\usuario.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Home.php(9): view('usuario/usuario')
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-07 12:03:39 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:05:41 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:05:44 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:05:45 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:05:45 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:05:46 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:05:46 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:05:47 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:46 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:47 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:47 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:47 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:48 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:48 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:49 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:49 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:50 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:50 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:51 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:51 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 12:06:57 --> Invalid file: usuario/usuario.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/usuario...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 13:12:35 --> Undefined array key "codigo_empleado"
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\usuario.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-07 13:12:36 --> Undefined array key "codigo_empleado"
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\usuario.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-07 13:13:10 --> Undefined array key "codigo_empleado"
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\usuario.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-07 13:13:12 --> Undefined array key "codigo_empleado"
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\usuario.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-07 13:13:14 --> Undefined array key "codigo_empleado"
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\usuario.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-07 13:13:15 --> Undefined array key "codigo_empleado"
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\usuario.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-07 13:13:18 --> Undefined array key "codigo_empleado"
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\usuario.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/usuario', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(11): view('usuario/usuario', Array)
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->cargarUsuarios()
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-07 13:55:40 --> Invalid file: usuario/nuevo.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/nuevo.p...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/nuevo', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(25): view('usuario/nuevo')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->verFormularioNuevoUsario()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 13:56:36 --> Invalid file: usuario/nuevo.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/nuevo.p...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/nuevo', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(25): view('usuario/nuevo')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->verFormularioNuevoUsario()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 13:57:09 --> Invalid file: usuario/nuevo.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/nuevo.p...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/nuevo', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(25): view('usuario/nuevo')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->verFormularioNuevoUsario()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 14:03:10 --> Invalid file: usuario/nuevo.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/nuevo.p...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/nuevo', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(25): view('usuario/nuevo')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->verFormularioNuevoUsario()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 14:03:50 --> Invalid file: usuario/nuevo.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/nuevo.p...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/nuevo', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(25): view('usuario/nuevo')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->verFormularioNuevoUsario()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 14:14:11 --> Invalid file: usuario/nuevo.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('usuario/nuevo.p...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/nuevo', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(25): view('usuario/nuevo')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->verFormularioNuevoUsario()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 14:24:46 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get_Var()
+#0 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->guardarUsarios()
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-07 14:25:28 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::get_Var()
+#0 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->guardarUsarios()
+#1 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#2 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-04-07 14:47:58 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:51:22 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:51:48 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:51:49 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:52:24 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:52:25 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:52:25 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:52:26 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:52:26 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:52:46 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:52:46 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:52:51 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:54:19 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 14:54:23 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 15:02:14 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 15:02:15 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 15:02:15 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 15:02:19 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 15:08:11 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 15:08:45 --> Duplicate entry '6' for key 'PRIMARY'
+CRITICAL - 2022-04-07 15:08:46 --> Undefined variable $usuario
+#0 C:\xampp\htdocs\evaluacion_no_2\app\Views\usuario\actualizar.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16)
+#1 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('usuario/actuali...', Array, true)
+#4 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(52): view('usuario/actuali...', Array)
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->actualizarUsuarios('6')
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#7 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-07 15:09:52 --> There is no data to update.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(651): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(70): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->modificarUsarios()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-07 15:14:41 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 15:14:42 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 15:14:42 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 15:14:48 --> Duplicate entry '6' for key 'PRIMARY'
+CRITICAL - 2022-04-07 15:15:54 --> There is no data to update.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(651): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(70): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->modificarUsarios()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-07 15:15:58 --> Duplicate entry '6' for key 'PRIMARY'
+ERROR - 2022-04-07 15:17:56 --> Duplicate entry '6' for key 'PRIMARY'
+CRITICAL - 2022-04-07 15:18:37 --> There is no data to update.
+#0 C:\xampp\htdocs\evaluacion_no_2\system\BaseModel.php(1574): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('update')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray(NULL, 'update')
+#2 C:\xampp\htdocs\evaluacion_no_2\system\Model.php(651): CodeIgniter\BaseModel->update(Array, NULL)
+#3 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Usuarios.php(71): CodeIgniter\Model->update(Array)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Usuarios->modificarUsarios()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Usuarios))
+#6 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-07 15:22:51 --> syntax error, unexpected token "$"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 15:22:53 --> syntax error, unexpected token "$"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 15:22:53 --> syntax error, unexpected token "$"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 15:22:54 --> syntax error, unexpected token "$"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 15:22:55 --> syntax error, unexpected token "$"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 15:22:56 --> syntax error, unexpected token "$"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 15:22:58 --> syntax error, unexpected token "$"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 15:23:06 --> syntax error, unexpected token "$"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 18:36:15 --> syntax error, unexpected token ";"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 18:36:21 --> syntax error, unexpected token ";"
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 18:36:49 --> syntax error, unexpected token ","
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 18:38:04 --> syntax error, unexpected token ","
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 18:38:06 --> syntax error, unexpected token ","
+#0 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-07 18:53:13 --> Invalid file: /login.php
+#0 C:\xampp\htdocs\evaluacion_no_2\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/login.php')
+#1 C:\xampp\htdocs\evaluacion_no_2\system\Common.php(1089): CodeIgniter\View\View->render('/login', Array, true)
+#2 C:\xampp\htdocs\evaluacion_no_2\app\Controllers\Home.php(10): view('/login', Array)
+#3 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\evaluacion_no_2\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\evaluacion_no_2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
